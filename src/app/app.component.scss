@@ -1,0 +1,46 @@
+  .example-small-box, .example-large-box {
+    //display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 8px;
+    
+  }
+  
+  .example-small-box {
+    background-color: darkgray;
+    height: 400px;
+    width: 400px;
+  }
+  
+  .example-large-box {
+    background-color: darkgray;
+    height: 400px;
+    width: 400px;
+  }
+  .example-button-container {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+  }
+  .example-button-row .mat-button-base {
+    margin: 8px 8px 8px 0;
+    width: 400px;
+  }
+  
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  
+  
+
+  
+  
